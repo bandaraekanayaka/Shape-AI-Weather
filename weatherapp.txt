@@ -1,0 +1,10 @@
+
+-------------------------------------------------------------
+
+Weather Stats for - HOMAGAMA  || 23 Jun 2021 | 03:50:51 PM
+-------------------------------------------------------------
+
+Current temperature is: 29.78 deg C
+Current weather desc  :scattered clouds
+Current Humidity      :62%
+Current wind speed    :4.36kmph
